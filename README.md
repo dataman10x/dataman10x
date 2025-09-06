@@ -41,8 +41,8 @@ Did you know? Laravel allows me to build beautiful muilti-tenancy, yet very resp
 ]
 
 🌐 Socials:
-(Instagram)[https://www.instagram.com/dataman10x/] (LinkedIn)[https://www.linkedin.com/in/metaversedataman/] (YouTube)[https://www.youtube.com/@metaversedataman] (website)[https://creat.i.ng/]
-Discord Instagram LinkedIn Pinterest X
+[Instagram](https://www.instagram.com/dataman10x/) [LinkedIn](https://www.linkedin.com/in/metaversedataman/) [YouTube](https://www.youtube.com/@metaversedataman) [website](https://creat.i.ng)
+
 
 💻 Tech Stack:
 Laravel JavaScript Kotlin HTML5 NodeJS TailwindCSS Firebase SQLite Canva AdobeXD Figma CorelDraw Adobe Photoshop GitHub Blender Postman Jira
