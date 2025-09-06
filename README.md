@@ -27,7 +27,7 @@ Laravel development is my passion, and I'm constantly exploring new ways to crea
 * Web app responsive design
 
 🚀 Tech Stack
-- Primary: Laravel, Dart
+- Primary: Laravel
 - Learning: Kotlin, Mobile Technologies
 - Passionate about creating seamless, performant web experiences
 
@@ -41,7 +41,8 @@ Did you know? Laravel allows me to build beautiful muilti-tenancy, yet very resp
 ]
 
 🌐 Socials:
+(Instagram)[https://www.instagram.com/dataman10x/] (LinkedIn)[https://www.linkedin.com/in/metaversedataman/] (YouTube)[https://www.youtube.com/@metaversedataman] (website)[https://creat.i.ng/]
 Discord Instagram LinkedIn Pinterest X
 
 💻 Tech Stack:
-Laravel JavaScript Kotlin HTML5 Netlify Vercel Render Firebase Google Cloud NodeJS TailwindCSS Firebase SQLite Canva Figma CorelDraw Adobe Photoshop GitHub Blender Trello Postman Jira
+Laravel JavaScript Kotlin HTML5 NodeJS TailwindCSS Firebase SQLite Canva AdobeXD Figma CorelDraw Adobe Photoshop GitHub Blender Postman Jira
